@@ -1,1 +1,37 @@
 # Brainwave_Matrix_Intern
+
+# 🗓️ Day Planner Website
+A simple and responsive Day Planner web application built using HTML, CSS, and JavaScript. This project helps users organize their daily tasks by adding, viewing, and managing tasks based on the time of day.
+
+# 🔧 Features
+✅ Add and remove tasks
+
+🕒 Time-blocked sections (Morning, Afternoon, Evening)
+
+💾 Save tasks in local storage
+
+♻️ Tasks persist even after page refresh
+
+📱 Fully responsive design for mobile and desktop
+
+# 🛠️ Technologies Used
+HTML – Structure of the page
+
+CSS – Styling and layout (Responsive using Flexbox/Grid)
+
+JavaScript – Task handling, local storage, and dynamic UI
+
+# 🚀 How to Run
+Clone the repo:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/day-planner.git
+Open the index.html file in your browser.
+
+No additional setup required.
+
+# Screenshots
+
+
