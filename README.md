@@ -14,6 +14,9 @@ A simple and responsive Day Planner web application built using HTML, CSS, and J
 
 📱 Fully responsive design for mobile and desktop
 
+# Demo link 
+Link: http://192.168.7.110:5500/index.html
+
 # 🛠️ Technologies Used
 HTML – Structure of the page
 
