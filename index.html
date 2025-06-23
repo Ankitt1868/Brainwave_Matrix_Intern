@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+
+<head>
+    <meta charset="UTF-8">
+    <title>My Day Planner</title>
+
+</head>
+
+<body>
+    <div class="wrapper">
+
+        <!-- ✅ NAVIGATION BAR -->
+        <nav class="navbar">
+            <div class="logo">Day Planner</div>
+            <ul class="nav-links">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#">View Example</a></li>
+                <li><a href="#">Last Update</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="container" id="home">
+            <h1>My Day Planner</h1>
+            <input type="text" id="taskInput" placeholder="Enter your task" />
+            <button id="addTaskBtn">Add Task</button>
+            <ul id="taskList"></ul>
+        </div>
+    </div>
+
+    <section class="contact hidden" id="contact">
+        <div class="contact-text" data-aos="fade-right">
+            <h2 class=" cnt glow-text">Connect, Collaborate, Create</h2>
+            <h4>Let's work Together</h4>
+            <p>I'd love to hear from you! Feel free to reach out via email or phone, or connect with me on social media.
+            </p>
+            <div class="contact-list">
+                <li><i class='bx bxs-send'></i> ankittiwari1868@gmail.com</li>
+                <li><i class='bx bxs-phone'></i> 6386228417</li>
+            </div>
+        </div>
+        <div class="contact-form" id="contact" data-aos="fade-left">
+            <form action="https://www.linkedin.com/in/ankit-tiwari0123/">
+                <input type="text" placeholder="Your Name" required>
+                <input type="email" placeholder="Your Email" required>
+                <input type="text" placeholder="Subject">
+                <textarea name="" id="" cols="40" rows="5" placeholder="Your Message" required></textarea>
+                <button type="submit" class="send-btn">Send Message</button>
+            </form>
+        </div>
+    </section>
+    <div class="last-text hidden">
+        <p>Developed by Ankit Tiwari @ 2025</p>
+    </div>
+    <script>
+        document.getElementById('addTaskBtn').addEventListener('click', function() {
+            const input = document.getElementById('taskInput');
+            const taskText = input.value.trim();
+
+            if (taskText !== '') {
+                const li = document.createElement('li');
+                const taskItem = document.createElement('div');
+                taskItem.className = 'task-item';
+
+                const span = document.createElement('span');
+                span.textContent = taskText;
+
+                const delBtn = document.createElement('button');
+                delBtn.className = 'delete-btn';
+                delBtn.textContent = 'Delete';
+
+                delBtn.addEventListener('click', function() {
+                    li.remove();
+                });
+
+                taskItem.appendChild(span);
+                taskItem.appendChild(delBtn);
+                li.appendChild(taskItem);
+                document.getElementById('taskList').appendChild(li);
+
+                input.value = '';
+            }
+        });
+    </script>
+</body>
+
+</html>
