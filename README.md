@@ -30,12 +30,12 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/day-planner.git
+git clone (https://github.com/Scoderankit/Brainwave_Matrix_Intern)
 Open the index.html file in your browser.
 
 No additional setup required.
 
 # Screenshots
-Images
+(Images/Screenshot1.png)
 
 
