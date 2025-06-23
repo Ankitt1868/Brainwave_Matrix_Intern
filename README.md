@@ -36,6 +36,6 @@ Open the index.html file in your browser.
 No additional setup required.
 
 # Screenshots
-(Images/Screenshot1.png)
+![Image alt] (https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/b091eacb5ab6ce4ef55a0b011f4acb44adc583b4/Images/Screenshot1.png)
 
 
