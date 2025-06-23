@@ -37,5 +37,8 @@ No additional setup required.
 
 # Screenshots
 ![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/b091eacb5ab6ce4ef55a0b011f4acb44adc583b4/Images/Screenshot1.png)
+![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot4.png)
+![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot3.png)
+![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot2.png)
 
 
