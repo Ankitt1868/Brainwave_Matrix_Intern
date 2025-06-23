@@ -36,5 +36,6 @@ Open the index.html file in your browser.
 No additional setup required.
 
 # Screenshots
+Images
 
 
