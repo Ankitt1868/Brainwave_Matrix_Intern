@@ -15,7 +15,7 @@ A simple and responsive Day Planner web application built using HTML, CSS, and J
 📱 Fully responsive design for mobile and desktop
 
 # Demo link 
-Link: https://scoderankit.github.io/Brainwave_Matrix_Intern/
+Check out the live demo [here](https://scoderankit.github.io/Brainwave_Matrix_Intern/](https://ankitt1868.github.io/Brainwave_Matrix_Intern/)
 
 # 🛠️ Technologies Used
 HTML – Structure of the page
@@ -40,5 +40,11 @@ No additional setup required.
 ![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot4.png)
 ![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot3.png)
 ![image alt](https://github.com/Scoderankit/Brainwave_Matrix_Intern/blob/cfde1310784cd28fae02074e4185af29f275d4dc/Images/Screenshot2.png)
+
+# Contact
+For any inquiries, reach out at [ankittiwari1868@gmail.com].
+- GitHub: @Ankitt1868.
+- Linkedin: linkedin.com/in/ankit-tiwari0123.
+- Instagram: @ankit_1868.
 
 
